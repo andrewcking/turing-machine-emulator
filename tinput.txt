@@ -1,0 +1,7 @@
+Rule:2,_,3,_,R
+Rule:3,a,4,a,R
+Rule:4,a,4,a,R
+Rule:4,b,4,b,R
+Rule:4,_,0,_,S
+Start:2
+Input:_abba_
